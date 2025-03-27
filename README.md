@@ -7,9 +7,9 @@ Welcome to the Python OOP
 - `main.py`
 - `.gitignore`
 ## Module 4 - Lesson 1 - Assignment
-- # alis
+# alis
 - `main.py`
 - `text_utils.py`
-- # moods
+# moods
 - `main.py`
 - `mood_response.py`
